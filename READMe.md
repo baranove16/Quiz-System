@@ -7,19 +7,19 @@ This project is GUI-based using Swing to manage, build and answer quiz questions
 - Each quiz has a unique code that allows guest users to complete one
 ---
 
-## Requirements
+Requirements
 
-Language Used
+## Language Used
 ============
 
  Java
 
-Database
+## Database
 ============
 
 MySQL
 
-IDE
+## IDE
 ============
 
 I used VSCode, however Eclipse is ideal. 
