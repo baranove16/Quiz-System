@@ -11,7 +11,7 @@ public class SQLoperations {
 	public SQLoperations() throws SQLException {
 		String url = "jdbc:mysql://localhost:3306/survey";
 		String usr = "root";
-		String pass = "3#YUi0vGw";//password unique to individual users
+		String pass = "3XXXXXX";//password unique to individual users
 		con = DriverManager.getConnection(url, usr, pass);
 	}
 	
