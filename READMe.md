@@ -19,10 +19,10 @@ This project is GUI-based using Swing to manage, build and answer quiz questions
 <p align="center"><strong>View Quizzes</strong></p>
 <p align="center"><img width="799" alt="View Quizzes" src="https://github.com/baranove16/Quiz-System/assets/89663127/92df5995-108b-46d5-81fb-4c5dbc187f1b"></p>
 
----
-
 
 # Requirements
+
+---
 
 ## Language Used
 
