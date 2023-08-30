@@ -30,7 +30,7 @@ public class guest {
 		frame.setLayout(null);
 		frame.setLocationRelativeTo(null);
 
-		JLabel start = new JLabel("ATTENDING THE SURVEY");
+		JLabel start = new JLabel("ATTENDING THE QUIZ");
 		start.setBounds(0, 50, 800, 50);
 		start.setHorizontalAlignment(JLabel.CENTER);
 		start.setFont(new Font("Times New Roman", Font.BOLD, 40));
@@ -113,7 +113,7 @@ public class guest {
 							for(int j=0; j<k; j++) {
 								manage.answerUpdt(surveyCode, j+1, opt[j]);
 							}
-							JOptionPane.showMessageDialog(frame, "Survey Completed. Thank You.", "Congradulations", JOptionPane.PLAIN_MESSAGE);
+							JOptionPane.showMessageDialog(frame, "Quiz Completed. Thank You.", "Congradulations", JOptionPane.PLAIN_MESSAGE);
 							manage.addTotal();
 							frame.dispose();
 						}
