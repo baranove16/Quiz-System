@@ -7,6 +7,20 @@ This project is GUI-based using Swing to manage, build and answer quiz questions
 - Each quiz has a unique code that allows guest users to complete one
 ---
 
+# Screenshot
+<p align="center"><strong>Login</strong></p>
+<p align="center">img src="screenshots/Login.png"></p>
+
+<p align="center"><strong>Create Quiz</strong></p>
+<p align="center">img src="screenshots/Create Quiz.png"></p>
+
+<p align="center"><strong>View Quizzes</strong></p>
+<p align="center">img src="screenshots/View Quizzes.png"></p>
+
+<p align="center"><strong>Attend Survey</strong></p>
+<p align="center">img src="screenshots/Attend Survey.png"></p>
+
+
 # Requirements
 
 ## Language Used
